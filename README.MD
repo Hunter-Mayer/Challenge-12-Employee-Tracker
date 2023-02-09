@@ -24,11 +24,17 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ### Video Example
 
-Recording: add here
+Recording: https://drive.google.com/file/d/18NIe7SMVvQf0ivh1TeRfjmfuHrNO0ml-/view?usp=sharing
+
+Demonstrates how when I run "npm start" it in facts brings up my prompts but then instantly exists. My instructor could not help me figure out why this was, he said it might just be my machine.
+
+### Screenshot 
+
+![screenshot](/assets/Capture.PNG)
 
 ### Deployed Repo
 
-Github Repo: https://github.com/Hunter-Mayer/Challenge-12-Employee-Tracker
+Github Repo: https://github.com/Hunter-Mayer/Challenge-12-Employee-Tracker/tree/master
 
 ## Credits
 
